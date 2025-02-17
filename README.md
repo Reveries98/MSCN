@@ -7,4 +7,15 @@ Multivariate time series anomaly detection plays a crucial role in many fields, 
 <p align="center">
 <img src="./png/MSCN.png" height="350" alt="" align=center/>
 </p>
-##Code will be released soon.
+
+## Acknowledgement
+
+We appreciate the following github repos a lot for their valuable code base or datasets:
+
+https://github.com/ts-kim/RevIN
+
+https://github.com/luodhhh/ModernTCN
+
+https://github.com/thuml/Time-Series-Library
+
+https://github.com/yzhao062/pyod
