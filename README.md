@@ -18,4 +18,4 @@ https://github.com/luodhhh/ModernTCN
 
 https://github.com/thuml/Time-Series-Library
 
-https://github.com/yzhao062/pyod
+https://github.com/gunny97/MEMTO
