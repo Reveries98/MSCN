@@ -5,6 +5,6 @@ Multivariate time series anomaly detection plays a crucial role in many fields, 
 
 
 <p align="center">
-<img src="./figs/MSCN.png" height="350" alt="" align=center/>
+<img src="./png/MSCN.png" height="350" alt="" align=center/>
 </p>
 ##Code will be released soon.

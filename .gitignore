@@ -1,0 +1,6 @@
+*__py*
+*checkpoints
+*memory_item
+*figs
+*.log
+dataset/
